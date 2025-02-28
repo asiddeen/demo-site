@@ -14,7 +14,7 @@
 6. [Step 6: Build the Testimonials Section](#step-6-build-the-testimonials-section)
 7. [Step 7: Build the Team & Gallery Section](#step-7-build-the-team-gallery-section)
 8. [Step 8: Build the Contact Section](#step-8-build-the-contact-section)
-9. [Step 9: Final Touches – Animations, Transitions, and Responsiveness](#step-9-final-touches-animations-transitions-and-responsiveness)
+9. [Step 9: Final Touches: Animations, Transitions, and Responsiveness](#step-9-final-touches-animations-transitions-and-responsiveness)
 10. [Step 10: Final Integration and Review](#step-10-final-integration-and-review)
 
 ---
@@ -704,7 +704,7 @@ The contact form uses accessible markup with proper labels and focus styles, ens
 
 ---
 
-## Step 9: Final Touches – Animations, Transitions, and Responsiveness
+## Step 9: Final Touches: Animations, Transitions, and Responsiveness
 
 **Objective:**
 Add subtle animations, smooth transitions, and media queries for a responsive design.
