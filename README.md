@@ -16,7 +16,6 @@
 8. [Step 8: Build the Contact Section](#step-8-build-the-contact-section)
 9. [Step 9: Final Touches – Animations, Transitions, and Responsiveness](#step-9-final-touches)
 10. [Step 10: Final Integration and Review](#step-10-final-integration-and-review)
-11. [Teaching Tips](#teaching-tips)
 
 ---
 
