@@ -12,9 +12,9 @@
 4. [Step 4: External Fonts, CSS :root Variables, and Icons](#step-4-external-fonts-css-root-variables-and-icons)
 5. [Step 5: Build the Products Section](#step-5-build-the-products-section)
 6. [Step 6: Build the Testimonials Section](#step-6-build-the-testimonials-section)
-7. [Step 7: Build the Team & Gallery Section](#step-7-build-the-team--gallery-section)
+7. [Step 7: Build the Team & Gallery Section](#step-7-build-the-team-gallery-section)
 8. [Step 8: Build the Contact Section](#step-8-build-the-contact-section)
-9. [Step 9: Final Touches – Animations, Transitions, and Responsiveness](#step-9-final-touches)
+9. [Step 9: Final Touches – Animations, Transitions, and Responsiveness](#step-9-final-touches-animations-transitions-and-responsiveness)
 10. [Step 10: Final Integration and Review](#step-10-final-integration-and-review)
 
 ---
