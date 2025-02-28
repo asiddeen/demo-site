@@ -9,7 +9,7 @@
 1. [Step 1: Basic HTML Structure](#step-1-basic-html-structure)
 2. [Step 2: Add Navigation and Additional Sections](#step-2-add-navigation-and-additional-sections)
 3. [Step 3: Sticky Header and Basic Layout Enhancements](#step-3-sticky-header-and-basic-layout-enhancements)
-4. [Step 4: External Fonts, CSS root Variables, and Icons](#step-4-external-fonts-css-root-variables-and-icons)
+4. [Step 4: External Fonts, root Variables, and Icons](#step-4-external-fonts-root-variables-and-icons)
 5. [Step 5: Build the Products Section](#step-5-build-the-products-section)
 6. [Step 6: Build the Testimonials Section](#step-6-build-the-testimonials-section)
 7. [Step 7: Build the Team and Gallery Section](#step-7-build-the-team-and-gallery-section)
